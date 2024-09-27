@@ -1,4 +1,4 @@
-package exlist;
+package org.example.exlist;
 
 public class MyList<T> {
     private MyNode<T> head;

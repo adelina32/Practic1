@@ -1,5 +1,7 @@
-import exlist.MyList;
-import exlist.SteckStretegy;
+package org.example;
+
+import org.example.exlist.MyList;
+import org.example.exlist.SteckStretegy;
 
 public class Main {
 

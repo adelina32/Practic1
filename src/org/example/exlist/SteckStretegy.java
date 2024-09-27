@@ -1,4 +1,4 @@
-package exlist;
+package org.example.exlist;
 
 public class SteckStretegy<T> implements ListStretegy<T> {
     @Override

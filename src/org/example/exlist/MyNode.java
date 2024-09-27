@@ -1,4 +1,4 @@
-package exlist;
+package org.example.exlist;
 
 public class MyNode<T> {
     private T value;
